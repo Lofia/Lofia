@@ -1,1 +1,2 @@
-- [CV](CV.pdf) / [简历](徐子翔简历.pdf)
+- Click [here](CV.pdf) to view my CV.
+- 点击[这里](徐子翔简历.pdf)查看我的简历。
