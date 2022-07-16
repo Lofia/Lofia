@@ -1,5 +1,6 @@
 # Do you know that, in the first 1000000000 digits of pi:
 
+<div align="center">
 | Number | Appeared Time |
 | :---   |      ---:     |
 | 0 | 99993942 |      
@@ -12,6 +13,7 @@
 | 7 | 99996061 | 
 | 8 | 100001839 | 
 | 9 | 100000273 | 
+</div>
 
 ---
 ## Click [here](CV.pdf) to view my CV.
