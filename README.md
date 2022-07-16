@@ -21,6 +21,6 @@ Number | Appeared Time
 
 <div align="center">
 
-## Click [here](CV.pdf) to view my CV.
-## 点击[这里](徐子翔简历.pdf)查看我的简历。
+## Click [here](CV.pdf) to view my CV
+## 点击[这里](徐子翔简历.pdf)查看我的简历
 </div>
