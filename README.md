@@ -19,8 +19,10 @@ Number | Appeared Time
 ##### (the data is fetched from an [MIT-SIPB Project](https://stuff.mit.edu/afs/sipb/contrib/pi/), and proceeded with a simple [code](code.R))
 ---
 
+<!---
 <div align="center">
 
 ## Click [here](resume.pdf) to view my resume
 ## 点击[这里](徐子翔简历.pdf)查看我的简历
 </div>
+-->
